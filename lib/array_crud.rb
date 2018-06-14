@@ -7,29 +7,30 @@ array = ["Bill","Matt","Mike","Paul"]
 end
 
 def add_element_to_end_of_array(array, element)
-
+array = ["Bill","Matt","Mike","Paul"]
+element << array
 end
 
 def add_element_to_start_of_array(array, element)
-
+array = ["Bill","Matt","Mike","Paul"]
 end
 
 def remove_element_from_end_of_array(array)
-
+array = ["Bill","Matt","Mike","Paul"]
 end
 
 def remove_element_from_start_of_array(array)
-
+array = ["Bill","Matt","Mike","Paul"]
 end
 
 def retrieve_element_from_index(array, index_number)
-
+array = ["Bill","Matt","Mike","Paul"]
 end
 
 def retrieve_first_element_from_array(array)
-
+array = ["Bill","Matt","Mike","Paul"]
 end
 
 def retrieve_last_element_from_array(array)
-
+array = ["Bill","Matt","Mike","Paul"]
 end

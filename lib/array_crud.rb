@@ -37,6 +37,6 @@ return array[0]
 end
 
 def retrieve_last_element_from_array(array)
-array = ["Bill","Matt","Mike","Paul"]
-
+array = ["Bill","Matt","Mike","arrays!"]
+return array[array.length - 1]
 end

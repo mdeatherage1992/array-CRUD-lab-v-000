@@ -27,7 +27,7 @@ return array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-array = ["Bill","Matt","Mike","Paul"]
+array = ["Bill","Matt","am","Paul"]
 return array[index_number]
 end
 

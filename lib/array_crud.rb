@@ -22,7 +22,7 @@ return array.pop
 end
 
 def remove_element_from_start_of_array(array)
-array = ["Bill","Matt","Mike",""]
+array = ["wow","Matt","Mike","Paul"]
 end
 
 def retrieve_element_from_index(array, index_number)
